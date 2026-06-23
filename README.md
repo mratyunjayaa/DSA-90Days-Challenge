@@ -18,7 +18,7 @@ The focus is on:
 ---
 
 ## 🎯 Objectives
-- 📌 Solve **500+ DSA problems**
+- 📌 Solve maximum problems and observing Patterns 
 - 📌 Master core topics (Arrays, Trees, Graphs, DP)
 - 📌 Improve time & space complexity understanding  
 - 📌 Build consistency and discipline  
